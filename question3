@@ -2,8 +2,10 @@
 // CMP237
 // Question #3 and #7
 
+// Array for questions
 var questions = {"4-Point Question": ['Point1', 'Point 2', ' Point 3', 'Point 4']
 
+// Attempted to print the array out, missing something
 console.log(var questions);
 
 // Attempting to map it, unsure of how to implement
