@@ -1,0 +1,7 @@
+// Connor Ring
+// CMP237
+// Question #3
+
+var questions = {"4-Point Question": ['Point1', 'Point 2', ' Point 3', 'Point 4']
+
+console.log(var questions);
